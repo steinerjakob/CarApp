@@ -9,11 +9,9 @@
   "author": "Henry Kellner",
   "license": "MIT",
   "dependencies": {
-    "@peculiar/webcrypto": "^1.3.3",
     "express": "^4.17.3",
     "moment": "^2.29.1",
-    "request": "^2.88.2",
-    "socket.io": "^4.4.1",
-    "traverse": "^0.6.6"
+    "npm-vwconnectapi": "file:npm-vwconnectapi",
+    "socket.io": "^4.4.1"
   }
 }
