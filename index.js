@@ -3,7 +3,7 @@ const http = require('http');
 const express = require('express')
 const moment = require('moment')
 
-const api = require('./npm-vwconnectapi');
+const api = require('npm-vwconnectapi');
 
 const app = express()
 
