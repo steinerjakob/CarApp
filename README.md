@@ -1,9 +1,9 @@
 # CarApp
-Node.js express application which delivers a car control web app<br/>
+Node.js express application which delivers a car control web app  
 Currentlly only working with Cupra Born
 
 ## Setup
-edit config.json<br/>
+edit config.json  
 start:
 
     node index.js
