@@ -15,7 +15,7 @@ direct your browser to http://locahost:8080/index.html
 http://locahost:8080/widget.html
 
 ## Send direct commands
-http://locahost:8080/execute.cmd?action=climatisation&state=start&key=0996dfbj3hvj4v<br/>
-http://locahost:8080/execute.cmd?action=climatisation&state=stop&key=0996dfbj3hvj4v<br/>
-http://locahost:8080/execute.cmd?action=charging&state=start&key=0996dfbj3hvj4v<br/>
-http://locahost:8080/execute.cmd?action=charging&state=stop&key=0996dfbj3hvj4v<br/>
+http://locahost:8080/execute.cmd?action=climatisation&state=start&key=0996dfbj3hvj4v  
+http://locahost:8080/execute.cmd?action=climatisation&state=stop&key=0996dfbj3hvj4v  
+http://locahost:8080/execute.cmd?action=charging&state=start&key=0996dfbj3hvj4v  
+http://locahost:8080/execute.cmd?action=charging&state=stop&key=0996dfbj3hvj4v  
